@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h2>Welcome to Hyoin's React App</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -17,6 +18,12 @@ function App() {
         >
           Learn React
         </a>
+
+        <p className="paragraph1">
+          This is a modified version of the default Create React App page.
+        </p>
+        <button type="button" className="btn1">Version log</button>
+
       </header>
     </div>
   );
