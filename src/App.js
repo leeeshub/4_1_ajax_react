@@ -18,6 +18,17 @@ function App() {
         >
           Learn React
         </a>
+        <br></br>
+        <a
+          className="App-link"
+          href="https://github.com/leeeshub/4_1_ajax_react"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          My github repo
+        </a>
+        
+
 
         <p className="paragraph1">
           This is a modified version of the default Create React App page.
