@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+/* 기본 페이지에 custom css */
+
+h2 {
+  color: aqua;
+}
+
+.paragraph1 {
+  background-color: rgb(120, 228, 192);
+  color: black;
+  border: 4px solid pink;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 30px;
+  font-size: smaller;
+}
+
+.btn1 {
+  margin: 10px;
+  width: 100px;
+  padding: 5px 10px;
+  background-color: white;
+  border: none;
+}
